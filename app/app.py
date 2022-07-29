@@ -29,7 +29,7 @@ def hello_world():
                 mybag = 'static/briefcase.jpg'
             elif 'bucket bag' in predictions_to_str:
                 mybag = 'static/bucket-bag.jpg'
-            elif duffel bag' in predictions_to_str:
+            elif 'duffel bag' in predictions_to_str:
                 mybag = 'static/duffel-bag.jpg'
             elif 'flap bag' in predictions_to_str:
                 mybag = 'static/flap-bag.jpg'
