@@ -24,17 +24,17 @@ def hello_world():
             predictions_to_str = str(predictions)
             
             if 'backpack' in predictions_to_str:
-                mybag = 'static/backpack.png'
+                mybag = 'static/backpack.jpg'
             elif 'briefcase' in predictions_to_str:
-                mybag = 'static/briefcase.png'
+                mybag = 'static/briefcase.jpg'
             elif 'bucket bag' in predictions_to_str:
-                mybag = 'static/bucket-bag.png'
+                mybag = 'static/bucket-bag.jpg'
             elif duffel bag' in predictions_to_str:
-                mybag = 'static/duffel-bag.png'
+                mybag = 'static/duffel-bag.jpg'
             elif 'flap bag' in predictions_to_str:
-                mybag = 'static/flap-bag.png'
+                mybag = 'static/flap-bag.jpg'
             elif 'tote bag' in predictions_to_str:
-                mybag = 'static/tote-bag.png'
+                mybag = 'static/tote-bag.jpg'
             else:
                 mybag = 'static/none.png' 
                 
